@@ -4,5 +4,9 @@ if you install tesseract and ekho, you can run the following command:
 $sh its.sh test.png [test file]
 you can listen a speach with a man voice.
 
-After installing tesseract, you must download the chinese data_training packet, and put it in the right place.
+After installing tesseract, you must download the chinese data_training package, and put it in the right place.
 
+
+The next work:
+1.get the image from camera.
+2.read the source code, and merge tesseract and ekho into a project.
