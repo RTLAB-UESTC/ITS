@@ -4,6 +4,9 @@ if you install tesseract and ekho, you can run the following command:
 $sh its.sh test.png [test file]
 you can listen a speach with a man voice.
 
+tesseract-ocr-3.02.02.tar.gz: http://code.google.com/p/tesseract-ocr/downloads/list
+ekho: http://www.eguidedog.net/ekho_cn.php
+
 After installing tesseract, you must download the chinese data_training package, and put it in the right place.
 
 
